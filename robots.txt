@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ongeashu.github.io/sitemap.html.gz
+Sitemap: https://ongeashu.github.io/app/sitemap.html.gz
+Sitemap: https://ongeashu.github.io/assets/sitemap.html.gz
+Sitemap: https://ongeashu.github.io/css/sitemap.html.gz
+Sitemap: https://ongeashu.github.io/includes/sitemap.html.gz
+Sitemap: https://ongeashu.github.io/item/sitemap.html.gz
+Sitemap: https://ongeashu.github.io/src/sitemap.html.gz
